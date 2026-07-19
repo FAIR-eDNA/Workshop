@@ -1,2 +1,1 @@
-# Workshop
-Repository for storing FAIRe workshop matterials
+Repository for storing FAIRe workshop materials.
